@@ -1,5 +1,7 @@
 # ng-viewchild-static-demo
 
+Open this projekt on [StackBlitz](https://stackblitz.com/): [Click here](https://stackblitz.com/github/robingenz/ng-viewchild-static-demo).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
 
 ## Development server
